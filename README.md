@@ -1,6 +1,6 @@
 # API_ToDOList_React
 <pre>
-<b>Description </b>to do app created using api interection . good to learn basic api methods .
+<b>Description </b>to do app created using api interection in react js. good to learn basic api methods .
 server : json-server --watch db.json --port 8000
 frontend : npm run dev
 </pre>
