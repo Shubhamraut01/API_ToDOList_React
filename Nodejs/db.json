@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "task": "Learn JS",
+      "date": "Today ",
+      "id": 1
+    },
+    {
+      "task": "Learn HTML",
+      "date": "Today",
+      "id": 2
+    },
+    {
+      "task": "Learn CSS",
+      "date": "Today",
+      "id": 3
+    },
+    {
+      "task": "have food",
+      "date": "today",
+      "id": 5
+    },
+    {
+      "task": "Have Beakfast",
+      "date": "Morning",
+      "id": 6
+    }
+  ]
+}
